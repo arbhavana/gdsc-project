@@ -1,0 +1,128 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:gainsboro;
+}
+
+
+
+.circle{
+    height:1em;
+    width:1em;
+    background-color: darkorange;
+    border-radius:50%;
+    margin-left: 0.5em;
+    margin-right:4px;
+    margin-top: 3px;
+    display: inline-block;
+}
+    
+
+
+.nicol{
+    padding-left: 2px;
+    font-size: large;
+    padding-top: 2px;
+    height: fit-content;
+    display: inline-block;
+    
+}
+
+.topnav{
+    
+    text-decoration: none;
+    color: black;
+    margin-left: 65vw;
+}
+
+.editor{
+    font-size: medium;
+    display: inline-block;
+}
+
+#project{
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+    text-decoration: none; 
+    overflow: hidden;
+    
+}
+
+.top_a{
+    text-decoration: none;
+    color: black;
+    padding-left: 12px;
+    padding-right: 12px;
+    
+}
+
+
+.image{
+    
+    margin-top: 100px;
+    margin-left: 50px;
+    padding-left: 15vw;
+    padding-right: 4vw;
+    height: 55vh;
+    width:25vw;
+    float: left;
+}
+.heading1{
+    font-weight: bolder;
+    font-size: 4vw;
+    padding-left: 10vw;
+    padding-top: 8vw;   
+}
+
+.heading3{
+    font-weight: bold;
+    font-size: 1.5vw;
+    padding-bottom: 2vw;
+    padding-top:8vw ;
+}
+.about{
+    width: 300px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    padding-left:47vw ;
+    padding-bottom: 3vw;
+}
+
+.circle1{
+    border-radius: 50%;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: 2vw; 
+    padding-bottom:2vw ;  
+    border: .5px solid black;
+    background-color: darkorange;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.circle2{
+    border-radius: 50%;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: 2vw; 
+    padding-bottom:2vw ;  
+    border: 1px solid black;
+    background-color: red;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.circle3{
+    border-radius: 50%;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: 2vw; 
+    padding-bottom:2vw ;  
+    border: 1px solid black;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
